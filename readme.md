@@ -1,5 +1,7 @@
 nsq官网链接的原版本有很多错误 乃至无法正常运行，并且提pr也没有人维护，我重新开了个仓库，让他可以无错运行
 
+The original version of NSQ's official website link has a lot of mistakes and even doesn't work properly, and PR is not maintained. I open a rep again so that he can run without errors
+
 # NSQPHP
 
 PHP client for [NSQ](https://github.com/bitly/nsq).
